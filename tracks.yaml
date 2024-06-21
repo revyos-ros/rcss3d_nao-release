@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/rcss3d_nao-release
 tracks:
   iron:
     actions:
