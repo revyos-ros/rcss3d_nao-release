@@ -1,3 +1,26 @@
+## rcss3d_nao (jazzy) - 1.2.0-4
+
+The packages in the `rcss3d_nao` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rcss3d_nao --override-release-repository-push-url git@github.com:revyos-ros/rcss3d_nao-release` on `Fri, 21 Jun 2024 05:09:18 -0000`
+
+The `rcss3d_nao` package was released.
+
+Version of package(s) in repository `rcss3d_nao`:
+
+- upstream repository: https://github.com/ros-sports/rcss3d_nao.git
+- release repository: https://github.com/revyos-ros/rcss3d_nao-release.git
+- rosdistro version: `1.2.0-3`
+- old version: `1.2.0-3`
+- new version: `1.2.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rcss3d_nao (rolling) - 1.2.0-2
 
 The packages in the `rcss3d_nao` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling rcss3d_nao` on `Sun, 14 Apr 2024 02:06:57 -0000`
